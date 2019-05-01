@@ -1,1 +1,2 @@
 line 1: git is cool.
+line 2: git is great.
